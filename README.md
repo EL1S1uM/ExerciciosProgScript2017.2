@@ -1,3 +1,3 @@
 # ExerciciosProgScript2017.2
 
-Resolução dos exercícios passados em sala
+### Resolução dos exercícios passados em sala
