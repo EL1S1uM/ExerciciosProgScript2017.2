@@ -1,0 +1,2 @@
+cat entrada.c | sed 's/int/long/' | sed 's/float/double/'
+cat entrada.c | sed '1a \#include <stdlib.h>'

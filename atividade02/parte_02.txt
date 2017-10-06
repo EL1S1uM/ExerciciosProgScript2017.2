@@ -1,0 +1,4 @@
+1) grep -E ' \.$' expressoesregulares.txt
+2) grep -E '[?!.,;:][^\ ]' expressoesregulares.txt
+3) grep -E '[.][^A-Z][^\ ]' expressoesregulares.txt
+4) grep -E '[^?!,;:.]$' expressoesregulares.txt

@@ -1,0 +1,3 @@
+cat auth.log | grep "root" | grep "Failed" | grep -v "message" | wc -l
+cat auth.log | grep "root" | grep "Failed" | grep -v "message" > malditos.txt
+cat auth.log | grep "felipesampaio" | grep "Failed"

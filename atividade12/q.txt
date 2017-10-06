@@ -1,0 +1,7 @@
+Se há um recurso muito útil na programação, certamente é a possibilidade de agruparmos várias variáveis de um mesmo tipo em uma só. São o que chamamos de vetor, ou matriz - em inglês se diz array.
+
+Há muito material na Internet que ensina a usar vetores, por isso não vou perder tempo com conceitos.
+
+Neste artigo, eu pretendo apresentar para os que não conhecem alguns recursos úteis quando trabalhamos com vetores em shell script.
+
+Aviso: Eu usarei o interpretador de comandos compatível com o sh, que é o bash. Todos os exemplos apresentados funcionam com certeza nele. Ou seja, eles não funcionarão em outros interpretadores não compatíveis com o sh, como o csh e o tcsh. 

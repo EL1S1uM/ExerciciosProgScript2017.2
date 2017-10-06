@@ -1,0 +1,735 @@
+ServerName: Cluster_1
+ServerIP: 195.155.209.209
+Uptime: 414
+--
+ServerName: Router_114
+ServerIP: 2.7.150.53
+Uptime: 421
+--
+ServerName: Email_313
+ServerIP: 11.61.166.45
+Uptime: 470
+--
+ServerName: Web_622
+ServerIP: 120.209.155.46
+Uptime: 518
+--
+ServerName: NISLDAP_934
+ServerIP: 8.15.113.220
+Uptime: 414
+--
+ServerName: Cluster_561
+ServerIP: 60.61.158.249
+Uptime: 494
+--
+ServerName: Email_399
+ServerIP: 84.102.154.26
+Uptime: 486
+--
+ServerName: Web_9
+ServerIP: 227.59.212.246
+Uptime: 432
+--
+ServerName: ActiveDirectory_814
+ServerIP: 204.227.102.225
+Uptime: 595
+--
+ServerName: VPN_222
+ServerIP: 1.111.82.5
+Uptime: 548
+--
+ServerName: ActiveDirectory_882
+ServerIP: 48.122.147.100
+Uptime: 465
+--
+ServerName: Web_449
+ServerIP: 242.245.144.197
+Uptime: 568
+--
+ServerName: ActiveDirectory_716
+ServerIP: 15.218.116.5
+Uptime: 559
+--
+ServerName: SNMP_216
+ServerIP: 219.41.201.48
+Uptime: 412
+--
+ServerName: ActiveDirectory_385
+ServerIP: 141.201.54.28
+Uptime: 433
+--
+ServerName: Cluster_477
+ServerIP: 17.139.35.200
+Uptime: 404
+--
+ServerName: Router_315
+ServerIP: 62.157.215.69
+Uptime: 463
+--
+ServerName: VPN_494
+ServerIP: 152.197.220.5
+Uptime: 587
+--
+ServerName: VPN_960
+ServerIP: 172.51.220.138
+Uptime: 533
+--
+ServerName: VPN_285
+ServerIP: 171.152.159.174
+Uptime: 418
+--
+ServerName: VPN_335
+ServerIP: 251.78.44.244
+Uptime: 472
+--
+ServerName: Web_453
+ServerIP: 135.188.152.164
+Uptime: 457
+--
+ServerName: VPN_884
+ServerIP: 248.47.142.94
+Uptime: 417
+--
+ServerName: ActiveDirectory_670
+ServerIP: 136.161.2.73
+Uptime: 582
+--
+ServerName: Cluster_957
+ServerIP: 82.243.85.242
+Uptime: 415
+--
+ServerName: ActiveDirectory_735
+ServerIP: 101.159.27.75
+Uptime: 520
+--
+ServerName: NISLDAP_387
+ServerIP: 169.50.94.227
+Uptime: 451
+--
+ServerName: CS_760
+ServerIP: 97.32.255.149
+Uptime: 426
+--
+ServerName: Router_553
+ServerIP: 56.0.192.18
+Uptime: 522
+--
+ServerName: NISLDAP_617
+ServerIP: 159.22.67.39
+Uptime: 508
+--
+ServerName: ActiveDirectory_47
+ServerIP: 167.181.92.17
+Uptime: 494
+--
+ServerName: VPN_176
+ServerIP: 70.115.165.17
+Uptime: 464
+--
+ServerName: Cluster_217
+ServerIP: 33.49.246.181
+Uptime: 545
+--
+ServerName: Router_189
+ServerIP: 180.109.72.129
+Uptime: 586
+--
+ServerName: Router_494
+ServerIP: 214.94.47.144
+Uptime: 550
+--
+ServerName: Cluster_917
+ServerIP: 159.45.229.24
+Uptime: 575
+--
+ServerName: VPN_36
+ServerIP: 15.57.240.56
+Uptime: 498
+--
+ServerName: CS_492
+ServerIP: 60.153.224.71
+Uptime: 507
+--
+ServerName: NISLDAP_866
+ServerIP: 191.127.166.109
+Uptime: 449
+--
+ServerName: Web_213
+ServerIP: 41.197.151.1
+Uptime: 570
+--
+ServerName: Samba_209
+ServerIP: 1.228.42.172
+Uptime: 560
+--
+ServerName: Samba_43
+ServerIP: 248.71.57.15
+Uptime: 459
+--
+ServerName: SNMP_827
+ServerIP: 234.248.18.169
+Uptime: 502
+--
+ServerName: Email_177
+ServerIP: 154.77.65.165
+Uptime: 557
+--
+ServerName: CS_392
+ServerIP: 218.16.166.127
+Uptime: 489
+--
+ServerName: Web_738
+ServerIP: 174.203.44.4
+Uptime: 559
+--
+ServerName: VPN_672
+ServerIP: 162.183.225.227
+Uptime: 531
+--
+ServerName: SNMP_816
+ServerIP: 120.50.255.92
+Uptime: 553
+--
+ServerName: Router_622
+ServerIP: 114.246.63.48
+Uptime: 480
+--
+ServerName: Samba_834
+ServerIP: 95.64.143.112
+Uptime: 461
+--
+ServerName: Router_830
+ServerIP: 64.59.182.124
+Uptime: 425
+--
+ServerName: Email_220
+ServerIP: 224.103.10.184
+Uptime: 586
+--
+ServerName: Samba_800
+ServerIP: 73.178.46.130
+Uptime: 569
+--
+ServerName: Email_388
+ServerIP: 216.247.169.30
+Uptime: 535
+--
+ServerName: Email_842
+ServerIP: 57.240.62.127
+Uptime: 581
+--
+ServerName: Router_824
+ServerIP: 163.180.61.76
+Uptime: 514
+--
+ServerName: Samba_936
+ServerIP: 44.44.196.58
+Uptime: 491
+--
+ServerName: Cluster_545
+ServerIP: 244.56.244.76
+Uptime: 445
+--
+ServerName: VPN_587
+ServerIP: 184.131.17.44
+Uptime: 467
+--
+ServerName: VPN_125
+ServerIP: 224.124.256.156
+Uptime: 598
+--
+ServerName: Samba_873
+ServerIP: 199.152.64.112
+Uptime: 533
+--
+ServerName: Samba_196
+ServerIP: 170.219.151.38
+Uptime: 505
+--
+ServerName: NISLDAP_923
+ServerIP: 112.79.204.81
+Uptime: 446
+--
+ServerName: NISLDAP_640
+ServerIP: 251.4.152.195
+Uptime: 513
+--
+ServerName: NISLDAP_470
+ServerIP: 127.52.82.146
+Uptime: 447
+--
+ServerName: ActiveDirectory_513
+ServerIP: 216.166.99.189
+Uptime: 564
+--
+ServerName: NISLDAP_237
+ServerIP: 219.228.240.156
+Uptime: 421
+--
+ServerName: Cluster_275
+ServerIP: 88.125.0.52
+Uptime: 449
+--
+ServerName: ActiveDirectory_358
+ServerIP: 85.176.152.57
+Uptime: 493
+--
+ServerName: Samba_248
+ServerIP: 39.191.13.115
+Uptime: 519
+--
+ServerName: CS_68
+ServerIP: 53.115.82.59
+Uptime: 577
+--
+ServerName: Web_848
+ServerIP: 249.33.198.53
+Uptime: 472
+--
+ServerName: NISLDAP_693
+ServerIP: 104.219.39.148
+Uptime: 429
+--
+ServerName: Email_697
+ServerIP: 208.127.119.166
+Uptime: 486
+--
+ServerName: Cluster_341
+ServerIP: 184.191.210.113
+Uptime: 419
+--
+ServerName: Web_890
+ServerIP: 78.15.74.71
+Uptime: 556
+--
+ServerName: NISLDAP_753
+ServerIP: 86.73.28.88
+Uptime: 411
+--
+ServerName: Cluster_329
+ServerIP: 242.121.11.126
+Uptime: 532
+--
+ServerName: CS_841
+ServerIP: 200.79.160.223
+Uptime: 440
+--
+ServerName: Cluster_345
+ServerIP: 31.242.94.19
+Uptime: 590
+--
+ServerName: Cluster_612
+ServerIP: 104.115.44.115
+Uptime: 489
+--
+ServerName: ActiveDirectory_23
+ServerIP: 110.220.40.74
+Uptime: 490
+--
+ServerName: VPN_2
+ServerIP: 233.17.198.238
+Uptime: 591
+--
+ServerName: VPN_469
+ServerIP: 210.227.12.209
+Uptime: 597
+--
+ServerName: VPN_654
+ServerIP: 243.170.112.158
+Uptime: 581
+--
+ServerName: Email_24
+ServerIP: 171.202.109.170
+Uptime: 417
+--
+ServerName: Email_933
+ServerIP: 239.25.68.157
+Uptime: 590
+--
+ServerName: NISLDAP_426
+ServerIP: 70.207.107.152
+Uptime: 516
+--
+ServerName: Samba_834
+ServerIP: 103.49.173.8
+Uptime: 563
+--
+ServerName: SNMP_137
+ServerIP: 157.226.169.196
+Uptime: 489
+--
+ServerName: Router_15
+ServerIP: 207.71.156.175
+Uptime: 414
+--
+ServerName: Cluster_957
+ServerIP: 135.28.194.100
+Uptime: 462
+--
+ServerName: Samba_474
+ServerIP: 94.227.20.112
+Uptime: 497
+--
+ServerName: Cluster_299
+ServerIP: 52.162.161.131
+Uptime: 562
+--
+ServerName: CS_467
+ServerIP: 140.203.245.167
+Uptime: 599
+--
+ServerName: Cluster_38
+ServerIP: 28.248.113.50
+Uptime: 544
+--
+ServerName: Router_125
+ServerIP: 145.250.237.41
+Uptime: 422
+--
+ServerName: CS_88
+ServerIP: 159.54.40.181
+Uptime: 585
+--
+ServerName: VPN_113
+ServerIP: 168.134.41.247
+Uptime: 552
+--
+ServerName: Web_475
+ServerIP: 173.150.222.122
+Uptime: 510
+--
+ServerName: Web_637
+ServerIP: 230.128.95.187
+Uptime: 482
+--
+ServerName: Web_666
+ServerIP: 49.109.32.81
+Uptime: 505
+--
+ServerName: Router_814
+ServerIP: 70.243.176.220
+Uptime: 599
+--
+ServerName: CS_341
+ServerIP: 137.232.135.225
+Uptime: 597
+--
+ServerName: Email_669
+ServerIP: 214.99.124.203
+Uptime: 452
+--
+ServerName: Email_260
+ServerIP: 41.73.56.152
+Uptime: 549
+--
+ServerName: Web_825
+ServerIP: 62.253.79.53
+Uptime: 416
+--
+ServerName: Web_180
+ServerIP: 204.157.26.157
+Uptime: 458
+--
+ServerName: NISLDAP_327
+ServerIP: 141.234.157.166
+Uptime: 416
+--
+ServerName: VPN_919
+ServerIP: 98.12.18.166
+Uptime: 429
+--
+ServerName: Email_148
+ServerIP: 209.97.213.104
+Uptime: 412
+--
+ServerName: Router_257
+ServerIP: 129.51.256.244
+Uptime: 578
+--
+ServerName: NISLDAP_367
+ServerIP: 118.46.244.216
+Uptime: 516
+--
+ServerName: Email_606
+ServerIP: 189.255.134.30
+Uptime: 409
+--
+ServerName: Router_58
+ServerIP: 147.15.103.207
+Uptime: 527
+--
+ServerName: ActiveDirectory_487
+ServerIP: 78.64.196.217
+Uptime: 467
+--
+ServerName: NISLDAP_499
+ServerIP: 45.215.134.244
+Uptime: 530
+--
+ServerName: NISLDAP_426
+ServerIP: 256.94.34.211
+Uptime: 459
+--
+ServerName: ActiveDirectory_480
+ServerIP: 72.215.7.58
+Uptime: 402
+--
+ServerName: Web_30
+ServerIP: 221.216.217.12
+Uptime: 450
+--
+ServerName: CS_352
+ServerIP: 254.163.118.14
+Uptime: 506
+--
+ServerName: CS_936
+ServerIP: 107.148.10.186
+Uptime: 599
+--
+ServerName: CS_636
+ServerIP: 192.41.55.131
+Uptime: 530
+--
+ServerName: Cluster_331
+ServerIP: 23.17.61.248
+Uptime: 506
+--
+ServerName: Cluster_969
+ServerIP: 78.34.221.191
+Uptime: 544
+--
+ServerName: SNMP_346
+ServerIP: 256.244.70.177
+Uptime: 448
+--
+ServerName: SNMP_622
+ServerIP: 135.228.203.209
+Uptime: 519
+--
+ServerName: SNMP_269
+ServerIP: 200.88.203.1
+Uptime: 418
+--
+ServerName: SNMP_105
+ServerIP: 180.101.234.150
+Uptime: 427
+--
+ServerName: CS_329
+ServerIP: 253.225.176.236
+Uptime: 568
+--
+ServerName: Router_206
+ServerIP: 101.189.20.102
+Uptime: 467
+--
+ServerName: Email_800
+ServerIP: 35.215.72.1
+Uptime: 564
+--
+ServerName: ActiveDirectory_585
+ServerIP: 190.22.248.64
+Uptime: 531
+--
+ServerName: Email_961
+ServerIP: 223.228.230.45
+Uptime: 458
+--
+ServerName: VPN_502
+ServerIP: 120.70.63.42
+Uptime: 414
+--
+ServerName: CS_245
+ServerIP: 222.28.244.248
+Uptime: 594
+--
+ServerName: CS_560
+ServerIP: 125.208.219.195
+Uptime: 516
+--
+ServerName: Email_637
+ServerIP: 169.45.234.34
+Uptime: 508
+--
+ServerName: VPN_281
+ServerIP: 105.107.199.250
+Uptime: 468
+--
+ServerName: Router_478
+ServerIP: 55.36.17.142
+Uptime: 528
+--
+ServerName: VPN_602
+ServerIP: 236.180.239.157
+Uptime: 501
+--
+ServerName: Cluster_900
+ServerIP: 207.17.173.203
+Uptime: 493
+--
+ServerName: Samba_660
+ServerIP: 107.147.69.45
+Uptime: 517
+--
+ServerName: NISLDAP_585
+ServerIP: 237.5.68.185
+Uptime: 446
+--
+ServerName: Web_2
+ServerIP: 255.186.140.141
+Uptime: 404
+--
+ServerName: Samba_91
+ServerIP: 63.87.67.153
+Uptime: 504
+--
+ServerName: CS_659
+ServerIP: 240.78.141.244
+Uptime: 571
+--
+ServerName: ActiveDirectory_706
+ServerIP: 86.111.45.106
+Uptime: 585
+--
+ServerName: Email_751
+ServerIP: 149.6.202.117
+Uptime: 494
+--
+ServerName: Email_413
+ServerIP: 210.8.180.64
+Uptime: 536
+--
+ServerName: Web_993
+ServerIP: 141.233.150.222
+Uptime: 441
+--
+ServerName: Cluster_38
+ServerIP: 240.233.32.39
+Uptime: 521
+--
+ServerName: Router_383
+ServerIP: 185.232.221.222
+Uptime: 538
+--
+ServerName: Samba_460
+ServerIP: 40.68.250.236
+Uptime: 477
+--
+ServerName: NISLDAP_986
+ServerIP: 120.98.151.223
+Uptime: 445
+--
+ServerName: Samba_488
+ServerIP: 236.145.237.164
+Uptime: 403
+--
+ServerName: ActiveDirectory_745
+ServerIP: 103.113.22.224
+Uptime: 562
+--
+ServerName: Web_237
+ServerIP: 99.82.73.27
+Uptime: 574
+--
+ServerName: Cluster_254
+ServerIP: 187.152.171.255
+Uptime: 543
+--
+ServerName: CS_47
+ServerIP: 23.108.29.130
+Uptime: 590
+--
+ServerName: Web_554
+ServerIP: 23.50.218.142
+Uptime: 590
+--
+ServerName: Email_239
+ServerIP: 189.3.80.102
+Uptime: 466
+--
+ServerName: ActiveDirectory_449
+ServerIP: 27.79.214.119
+Uptime: 592
+--
+ServerName: CS_661
+ServerIP: 217.136.38.182
+Uptime: 441
+--
+ServerName: Cluster_457
+ServerIP: 28.183.197.129
+Uptime: 407
+--
+ServerName: Cluster_868
+ServerIP: 77.42.28.148
+Uptime: 415
+--
+ServerName: NISLDAP_151
+ServerIP: 101.133.242.94
+Uptime: 578
+--
+ServerName: VPN_305
+ServerIP: 128.110.129.36
+Uptime: 537
+--
+ServerName: Cluster_360
+ServerIP: 60.128.248.46
+Uptime: 456
+--
+ServerName: Web_723
+ServerIP: 191.9.26.18
+Uptime: 515
+--
+ServerName: Email_33
+ServerIP: 69.96.181.225
+Uptime: 545
+--
+ServerName: VPN_330
+ServerIP: 1.220.6.50
+Uptime: 516
+--
+ServerName: Email_490
+ServerIP: 121.124.234.21
+Uptime: 413
+--
+ServerName: Email_626
+ServerIP: 107.114.113.109
+Uptime: 427
+--
+ServerName: Cluster_515
+ServerIP: 86.184.64.213
+Uptime: 560
+--
+ServerName: Web_32
+ServerIP: 115.137.81.97
+Uptime: 429
+--
+ServerName: Samba_341
+ServerIP: 43.43.211.17
+Uptime: 456
+--
+ServerName: Web_967
+ServerIP: 109.111.13.218
+Uptime: 496
+--
+ServerName: SNMP_742
+ServerIP: 245.42.84.42
+Uptime: 413
+--
+ServerName: Web_356
+ServerIP: 208.246.180.6
+Uptime: 411
+--
+ServerName: CS_682
+ServerIP: 106.107.32.77
+Uptime: 524
+--
+ServerName: CS_623
+ServerIP: 105.71.189.56
+Uptime: 596
+--
+ServerName: Samba_689
+ServerIP: 51.82.107.115
+Uptime: 563
+--
+ServerName: Router_6
+ServerIP: 45.209.219.27
+Uptime: 441

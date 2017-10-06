@@ -1,0 +1,297 @@
+mail.log.2:Aug 20 07:04:14 joao postfix/smtpd[6339]: warning: dict_nis_init: NIS domain name not set - NIS lookups disabled
+mail.log.2:Aug 20 07:04:14 joao postfix/smtpd[6339]: connect from unknown[175.6.7.144]
+mail.log.2:Aug 20 07:04:18 joao postfix/smtpd[6339]: disconnect from unknown[175.6.7.144] ehlo=1 auth=0/1 rset=1 quit=1 commands=3/4
+mail.log.2:Aug 20 07:07:38 joao postfix/anvil[6341]: statistics: max connection rate 1/60s for (smtp:175.6.7.144) at Aug 20 07:04:14
+mail.log.2:Aug 20 07:07:38 joao postfix/anvil[6341]: statistics: max connection count 1 for (smtp:175.6.7.144) at Aug 20 07:04:14
+mail.log.2:Aug 20 07:07:38 joao postfix/anvil[6341]: statistics: max cache size 1 at Aug 20 07:04:14
+mail.log.2:Aug 20 08:23:20 joao postfix/smtpd[6778]: warning: dict_nis_init: NIS domain name not set - NIS lookups disabled
+mail.log.2:Aug 20 08:23:20 joao postfix/smtpd[6778]: connect from unknown[175.6.7.144]
+mail.log.2:Aug 20 08:23:22 joao postfix/smtpd[6778]: disconnect from unknown[175.6.7.144] ehlo=1 auth=0/1 rset=1 quit=1 commands=3/4
+mail.log.2:Aug 20 08:26:42 joao postfix/anvil[6780]: statistics: max connection rate 1/60s for (smtp:175.6.7.144) at Aug 20 08:23:20
+mail.log.2:Aug 20 08:26:42 joao postfix/anvil[6780]: statistics: max connection count 1 for (smtp:175.6.7.144) at Aug 20 08:23:20
+mail.log.2:Aug 20 08:26:42 joao postfix/anvil[6780]: statistics: max cache size 1 at Aug 20 08:23:20
+mail.log.2:Aug 20 09:50:21 joao postfix/smtpd[7177]: warning: dict_nis_init: NIS domain name not set - NIS lookups disabled
+mail.log.2:Aug 20 09:50:21 joao postfix/smtpd[7177]: connect from unknown[175.6.7.144]
+mail.log.2:Aug 20 09:50:22 joao postfix/smtpd[7177]: disconnect from unknown[175.6.7.144] ehlo=1 auth=0/1 rset=1 quit=1 commands=3/4
+mail.log.2:Aug 20 09:53:42 joao postfix/anvil[7179]: statistics: max connection rate 1/60s for (smtp:175.6.7.144) at Aug 20 09:50:21
+mail.log.2:Aug 20 09:53:42 joao postfix/anvil[7179]: statistics: max connection count 1 for (smtp:175.6.7.144) at Aug 20 09:50:21
+mail.log.2:Aug 20 09:53:42 joao postfix/anvil[7179]: statistics: max cache size 1 at Aug 20 09:50:21
+mail.log.2:Aug 20 11:25:34 joao postfix/smtpd[7712]: warning: dict_nis_init: NIS domain name not set - NIS lookups disabled
+mail.log.2:Aug 20 11:25:34 joao postfix/smtpd[7712]: connect from ip209.ip-149-56-66.net[149.56.66.209]
+mail.log.2:Aug 20 11:25:34 joao postfix/smtpd[7712]: disconnect from ip209.ip-149-56-66.net[149.56.66.209] ehlo=1 auth=0/1 rset=1 quit=1 commands=3/4
+mail.log.2:Aug 20 11:28:55 joao postfix/anvil[7714]: statistics: max connection rate 1/60s for (smtp:149.56.66.209) at Aug 20 11:25:34
+mail.log.2:Aug 20 11:28:55 joao postfix/anvil[7714]: statistics: max connection count 1 for (smtp:149.56.66.209) at Aug 20 11:25:34
+mail.log.2:Aug 20 11:28:55 joao postfix/anvil[7714]: statistics: max cache size 1 at Aug 20 11:25:34
+mail.log.2:Aug 20 11:46:27 joao postfix/smtpd[7883]: warning: dict_nis_init: NIS domain name not set - NIS lookups disabled
+mail.log.2:Aug 20 11:46:27 joao postfix/smtpd[7883]: connect from 1-160-116-48.dynamic-ip.hinet.net[1.160.116.48]
+mail.log.2:Aug 20 11:46:27 joao postfix/smtpd[7883]: NOQUEUE: reject: RCPT from 1-160-116-48.dynamic-ip.hinet.net[1.160.116.48]: 454 4.7.1 <vxxj.zhge@msa.hinet.net>: Relay access denied; from=<z2007tw@yahoo.com.tw> to=<vxxj.zhge@msa.hinet.net> proto=SMTP helo=<192.241.254.137>
+mail.log.2:Aug 20 11:46:28 joao postfix/smtpd[7883]: lost connection after RCPT from 1-160-116-48.dynamic-ip.hinet.net[1.160.116.48]
+mail.log.2:Aug 20 11:46:28 joao postfix/smtpd[7883]: disconnect from 1-160-116-48.dynamic-ip.hinet.net[1.160.116.48] helo=1 mail=1 rcpt=0/1 commands=2/3
+mail.log.2:Aug 20 11:49:48 joao postfix/anvil[7885]: statistics: max connection rate 1/60s for (smtp:1.160.116.48) at Aug 20 11:46:27
+mail.log.2:Aug 20 11:49:48 joao postfix/anvil[7885]: statistics: max connection count 1 for (smtp:1.160.116.48) at Aug 20 11:46:27
+mail.log.2:Aug 20 11:49:48 joao postfix/anvil[7885]: statistics: max cache size 1 at Aug 20 11:46:27
+mail.log.2:Aug 20 12:09:35 joao postfix/smtpd[8031]: warning: dict_nis_init: NIS domain name not set - NIS lookups disabled
+mail.log.2:Aug 20 12:09:35 joao postfix/smtpd[8031]: connect from unknown[175.6.7.144]
+mail.log.2:Aug 20 12:09:36 joao postfix/smtpd[8031]: disconnect from unknown[175.6.7.144] ehlo=1 auth=0/1 rset=1 quit=1 commands=3/4
+mail.log.2:Aug 20 12:12:56 joao postfix/anvil[8033]: statistics: max connection rate 1/60s for (smtp:175.6.7.144) at Aug 20 12:09:35
+mail.log.2:Aug 20 12:12:56 joao postfix/anvil[8033]: statistics: max connection count 1 for (smtp:175.6.7.144) at Aug 20 12:09:35
+mail.log.2:Aug 20 12:12:56 joao postfix/anvil[8033]: statistics: max cache size 1 at Aug 20 12:09:35
+mail.log.2:Aug 20 13:23:44 joao postfix/smtpd[8739]: warning: dict_nis_init: NIS domain name not set - NIS lookups disabled
+mail.log.2:Aug 20 13:23:44 joao postfix/smtpd[8739]: connect from unknown[175.6.7.144]
+mail.log.2:Aug 20 13:23:45 joao postfix/smtpd[8739]: disconnect from unknown[175.6.7.144] ehlo=1 auth=0/1 rset=1 quit=1 commands=3/4
+mail.log.2:Aug 20 13:27:05 joao postfix/anvil[8741]: statistics: max connection rate 1/60s for (smtp:175.6.7.144) at Aug 20 13:23:44
+mail.log.2:Aug 20 13:27:05 joao postfix/anvil[8741]: statistics: max connection count 1 for (smtp:175.6.7.144) at Aug 20 13:23:44
+mail.log.2:Aug 20 13:27:05 joao postfix/anvil[8741]: statistics: max cache size 1 at Aug 20 13:23:44
+mail.log.2:Aug 20 14:38:39 joao postfix/smtpd[9266]: warning: dict_nis_init: NIS domain name not set - NIS lookups disabled
+mail.log.2:Aug 20 14:38:39 joao postfix/smtpd[9266]: connect from unknown[175.6.7.144]
+mail.log.2:Aug 20 14:38:42 joao postfix/smtpd[9266]: disconnect from unknown[175.6.7.144] ehlo=1 auth=0/1 rset=1 quit=1 commands=3/4
+mail.log.2:Aug 20 14:42:02 joao postfix/anvil[9268]: statistics: max connection rate 1/60s for (smtp:175.6.7.144) at Aug 20 14:38:39
+mail.log.2:Aug 20 14:42:02 joao postfix/anvil[9268]: statistics: max connection count 1 for (smtp:175.6.7.144) at Aug 20 14:38:39
+mail.log.2:Aug 20 14:42:02 joao postfix/anvil[9268]: statistics: max cache size 1 at Aug 20 14:38:39
+mail.log.2:Aug 20 14:54:01 joao postfix/smtpd[9474]: warning: dict_nis_init: NIS domain name not set - NIS lookups disabled
+mail.log.2:Aug 20 14:54:01 joao postfix/smtpd[9474]: connect from ip191.ip-192-99-27.net[192.99.27.191]
+mail.log.2:Aug 20 14:54:01 joao postfix/smtpd[9474]: disconnect from ip191.ip-192-99-27.net[192.99.27.191] ehlo=1 auth=0/1 rset=1 quit=1 commands=3/4
+mail.log.2:Aug 20 14:57:21 joao postfix/anvil[9476]: statistics: max connection rate 1/60s for (smtp:192.99.27.191) at Aug 20 14:54:01
+mail.log.2:Aug 20 14:57:21 joao postfix/anvil[9476]: statistics: max connection count 1 for (smtp:192.99.27.191) at Aug 20 14:54:01
+mail.log.2:Aug 20 14:57:21 joao postfix/anvil[9476]: statistics: max cache size 1 at Aug 20 14:54:01
+mail.log.2:Aug 20 16:03:20 joao postfix/smtpd[10227]: warning: dict_nis_init: NIS domain name not set - NIS lookups disabled
+mail.log.2:Aug 20 16:03:20 joao postfix/smtpd[10227]: connect from unknown[175.6.7.144]
+mail.log.2:Aug 20 16:03:21 joao postfix/smtpd[10227]: disconnect from unknown[175.6.7.144] ehlo=1 auth=0/1 rset=1 quit=1 commands=3/4
+mail.log.2:Aug 20 16:06:41 joao postfix/anvil[10229]: statistics: max connection rate 1/60s for (smtp:175.6.7.144) at Aug 20 16:03:20
+mail.log.2:Aug 20 16:06:41 joao postfix/anvil[10229]: statistics: max connection count 1 for (smtp:175.6.7.144) at Aug 20 16:03:20
+mail.log.2:Aug 20 16:06:41 joao postfix/anvil[10229]: statistics: max cache size 1 at Aug 20 16:03:20
+mail.log.2:Aug 20 16:35:20 joao postfix/smtpd[10640]: warning: dict_nis_init: NIS domain name not set - NIS lookups disabled
+mail.log.2:Aug 20 16:35:20 joao postfix/smtpd[10640]: warning: hostname mail.bhubaneshwarpower.com does not resolve to address 182.18.168.216
+mail.log.2:Aug 20 16:35:20 joao postfix/smtpd[10640]: connect from unknown[182.18.168.216]
+mail.log.2:Aug 20 16:35:21 joao postfix/smtpd[10640]: disconnect from unknown[182.18.168.216] ehlo=1 auth=0/1 quit=1 commands=2/3
+mail.log.2:Aug 20 16:38:41 joao postfix/anvil[10642]: statistics: max connection rate 1/60s for (smtp:182.18.168.216) at Aug 20 16:35:20
+mail.log.2:Aug 20 16:38:41 joao postfix/anvil[10642]: statistics: max connection count 1 for (smtp:182.18.168.216) at Aug 20 16:35:20
+mail.log.2:Aug 20 16:38:41 joao postfix/anvil[10642]: statistics: max cache size 1 at Aug 20 16:35:20
+mail.log.2:Aug 20 19:23:24 joao postfix/smtpd[12653]: warning: dict_nis_init: NIS domain name not set - NIS lookups disabled
+mail.log.2:Aug 20 19:23:24 joao postfix/smtpd[12653]: connect from unknown[175.6.7.144]
+mail.log.2:Aug 20 19:23:25 joao postfix/smtpd[12653]: disconnect from unknown[175.6.7.144] ehlo=1 auth=0/1 rset=1 quit=1 commands=3/4
+mail.log.2:Aug 20 19:26:45 joao postfix/anvil[12655]: statistics: max connection rate 1/60s for (smtp:175.6.7.144) at Aug 20 19:23:24
+mail.log.2:Aug 20 19:26:45 joao postfix/anvil[12655]: statistics: max connection count 1 for (smtp:175.6.7.144) at Aug 20 19:23:24
+mail.log.2:Aug 20 19:26:45 joao postfix/anvil[12655]: statistics: max cache size 1 at Aug 20 19:23:24
+mail.log.2:Aug 20 20:32:24 joao postfix/pickup[12664]: 6ED94DF4AD: uid=1060 from=<wagnerbragacrf>
+mail.log.2:Aug 20 20:32:24 joao postfix/cleanup[13662]: 6ED94DF4AD: message-id=<20170820233224.6ED94DF4AD@joao.marcelo.nom.br>
+mail.log.2:Aug 20 20:32:24 joao postfix/qmgr[1668]: 6ED94DF4AD: from=<wagnerbragacrf@joao.marcelo.nom.br>, size=649, nrcpt=1 (queue active)
+mail.log.2:Aug 20 20:32:24 joao postfix/local[13664]: warning: dict_nis_init: NIS domain name not set - NIS lookups disabled
+mail.log.2:Aug 20 20:32:24 joao postfix/local[13664]: 6ED94DF4AD: to=<root@joao.marcelo.nom.br>, orig_to=<root>, relay=local, delay=0.04, delays=0.03/0.01/0/0, dsn=2.0.0, status=sent (delivered to mailbox)
+mail.log.2:Aug 20 20:32:24 joao postfix/qmgr[1668]: 6ED94DF4AD: removed
+mail.log.2:Aug 20 21:07:16 joao postfix/smtpd[14096]: warning: dict_nis_init: NIS domain name not set - NIS lookups disabled
+mail.log.2:Aug 20 21:07:16 joao postfix/smtpd[14096]: connect from unknown[175.6.7.144]
+mail.log.2:Aug 20 21:07:17 joao postfix/smtpd[14096]: disconnect from unknown[175.6.7.144] ehlo=1 auth=0/1 rset=1 quit=1 commands=3/4
+mail.log.2:Aug 20 21:10:37 joao postfix/anvil[14098]: statistics: max connection rate 1/60s for (smtp:175.6.7.144) at Aug 20 21:07:16
+mail.log.2:Aug 20 21:10:37 joao postfix/anvil[14098]: statistics: max connection count 1 for (smtp:175.6.7.144) at Aug 20 21:07:16
+mail.log.2:Aug 20 21:10:37 joao postfix/anvil[14098]: statistics: max cache size 1 at Aug 20 21:07:16
+mail.log.2:Aug 20 21:25:04 joao postfix/smtpd[14263]: warning: dict_nis_init: NIS domain name not set - NIS lookups disabled
+mail.log.2:Aug 20 21:25:04 joao postfix/smtpd[14263]: connect from ip196.ip-142-44-152.net[142.44.152.196]
+mail.log.2:Aug 20 21:25:04 joao postfix/smtpd[14263]: disconnect from ip196.ip-142-44-152.net[142.44.152.196] ehlo=1 auth=0/1 rset=1 quit=1 commands=3/4
+mail.log.2:Aug 20 21:28:24 joao postfix/anvil[14265]: statistics: max connection rate 1/60s for (smtp:142.44.152.196) at Aug 20 21:25:04
+mail.log.2:Aug 20 21:28:24 joao postfix/anvil[14265]: statistics: max connection count 1 for (smtp:142.44.152.196) at Aug 20 21:25:04
+mail.log.2:Aug 20 21:28:24 joao postfix/anvil[14265]: statistics: max cache size 1 at Aug 20 21:25:04
+mail.log.2:Aug 20 23:04:09 joao postfix/smtpd[15476]: warning: dict_nis_init: NIS domain name not set - NIS lookups disabled
+mail.log.2:Aug 20 23:04:09 joao postfix/smtpd[15476]: connect from unknown[175.6.7.144]
+mail.log.2:Aug 20 23:04:10 joao postfix/smtpd[15476]: disconnect from unknown[175.6.7.144] ehlo=1 auth=0/1 rset=1 quit=1 commands=3/4
+mail.log.2:Aug 20 23:07:30 joao postfix/anvil[15478]: statistics: max connection rate 1/60s for (smtp:175.6.7.144) at Aug 20 23:04:09
+mail.log.2:Aug 20 23:07:30 joao postfix/anvil[15478]: statistics: max connection count 1 for (smtp:175.6.7.144) at Aug 20 23:04:09
+mail.log.2:Aug 20 23:07:30 joao postfix/anvil[15478]: statistics: max cache size 1 at Aug 20 23:04:09
+mail.log.3:Aug 20 00:00:26 joao postfix/smtpd[3025]: warning: hostname b11226.entelchile.net does not resolve to address 186.10.11.226: Name or service not known
+mail.log.3:Aug 20 00:00:26 joao postfix/smtpd[3025]: connect from unknown[186.10.11.226]
+mail.log.3:Aug 20 00:00:27 joao postfix/smtpd[3025]: disconnect from unknown[186.10.11.226] helo=1 auth=0/1 quit=1 commands=2/3
+mail.log.3:Aug 20 00:03:12 joao postfix/smtpd[3046]: warning: dict_nis_init: NIS domain name not set - NIS lookups disabled
+mail.log.3:Aug 20 00:03:12 joao postfix/smtpd[3046]: warning: hostname ip162.ip-192-95-49.net does not resolve to address 192.95.49.162: Name or service not known
+mail.log.3:Aug 20 00:03:12 joao postfix/smtpd[3046]: connect from unknown[192.95.49.162]
+mail.log.3:Aug 20 00:03:13 joao postfix/smtpd[3046]: disconnect from unknown[192.95.49.162] helo=1 auth=0/1 quit=1 commands=2/3
+mail.log.3:Aug 20 00:05:40 joao postfix/smtpd[3075]: warning: dict_nis_init: NIS domain name not set - NIS lookups disabled
+mail.log.3:Aug 20 00:05:40 joao postfix/smtpd[3075]: connect from fixed-187-188-114-79.totalplay.net[187.188.114.79]
+mail.log.3:Aug 20 00:05:40 joao postfix/smtpd[3075]: disconnect from fixed-187-188-114-79.totalplay.net[187.188.114.79] helo=1 auth=0/1 quit=1 commands=2/3
+mail.log.3:Aug 20 00:08:26 joao postfix/anvil[2687]: statistics: max connection rate 1/60s for (smtp:175.6.7.144) at Aug 19 23:58:53
+mail.log.3:Aug 20 00:08:26 joao postfix/anvil[2687]: statistics: max connection count 1 for (smtp:175.6.7.144) at Aug 19 23:58:53
+mail.log.3:Aug 20 00:08:26 joao postfix/anvil[2687]: statistics: max cache size 1 at Aug 19 23:58:53
+mail.log.3:Aug 20 00:08:48 joao postfix/smtpd[3111]: warning: dict_nis_init: NIS domain name not set - NIS lookups disabled
+mail.log.3:Aug 20 00:08:48 joao postfix/smtpd[3111]: connect from business-092-079-129-204.static.arcor-ip.net[92.79.129.204]
+mail.log.3:Aug 20 00:08:49 joao postfix/smtpd[3111]: disconnect from business-092-079-129-204.static.arcor-ip.net[92.79.129.204] helo=1 auth=0/1 quit=1 commands=2/3
+mail.log.3:Aug 20 00:11:08 joao postfix/smtpd[3131]: warning: dict_nis_init: NIS domain name not set - NIS lookups disabled
+mail.log.3:Aug 20 00:11:08 joao postfix/smtpd[3131]: connect from unknown[200.95.174.163]
+mail.log.3:Aug 20 00:11:09 joao postfix/smtpd[3131]: disconnect from unknown[200.95.174.163] helo=1 auth=0/1 quit=1 commands=2/3
+mail.log.3:Aug 20 00:13:38 joao postfix/smtpd[3175]: warning: dict_nis_init: NIS domain name not set - NIS lookups disabled
+mail.log.3:Aug 20 00:13:38 joao postfix/smtpd[3175]: connect from unknown[201.131.240.134]
+mail.log.3:Aug 20 00:13:39 joao postfix/smtpd[3175]: disconnect from unknown[201.131.240.134] helo=1 auth=0/1 quit=1 commands=2/3
+mail.log.3:Aug 20 00:16:22 joao postfix/smtpd[3190]: warning: dict_nis_init: NIS domain name not set - NIS lookups disabled
+mail.log.3:Aug 20 00:16:22 joao postfix/smtpd[3190]: connect from 87-204-125-10.static.ip.netia.com.pl[87.204.125.10]
+mail.log.3:Aug 20 00:16:22 joao postfix/smtpd[3190]: disconnect from 87-204-125-10.static.ip.netia.com.pl[87.204.125.10] helo=1 auth=0/1 quit=1 commands=2/3
+mail.log.3:Aug 20 00:18:26 joao postfix/anvil[2687]: statistics: max connection rate 1/60s for (smtp:92.79.129.204) at Aug 20 00:08:48
+mail.log.3:Aug 20 00:18:26 joao postfix/anvil[2687]: statistics: max connection count 1 for (smtp:92.79.129.204) at Aug 20 00:08:48
+mail.log.3:Aug 20 00:18:26 joao postfix/anvil[2687]: statistics: max cache size 1 at Aug 20 00:08:48
+mail.log.3:Aug 20 00:18:54 joao postfix/smtpd[3204]: warning: dict_nis_init: NIS domain name not set - NIS lookups disabled
+mail.log.3:Aug 20 00:18:54 joao postfix/smtpd[3204]: connect from unknown[31.47.55.82]
+mail.log.3:Aug 20 00:18:55 joao postfix/smtpd[3204]: disconnect from unknown[31.47.55.82] helo=1 auth=0/1 quit=1 commands=2/3
+mail.log.3:Aug 20 00:22:12 joao postfix/smtpd[3214]: warning: dict_nis_init: NIS domain name not set - NIS lookups disabled
+mail.log.3:Aug 20 00:22:14 joao postfix/smtpd[3214]: connect from unknown[111.67.192.241]
+mail.log.3:Aug 20 00:22:15 joao postfix/smtpd[3214]: disconnect from unknown[111.67.192.241] helo=1 auth=0/1 quit=1 commands=2/3
+mail.log.3:Aug 20 00:24:08 joao postfix/smtpd[3224]: warning: dict_nis_init: NIS domain name not set - NIS lookups disabled
+mail.log.3:Aug 20 00:24:08 joao postfix/smtpd[3224]: connect from unknown[197.159.191.5]
+mail.log.3:Aug 20 00:24:09 joao postfix/smtpd[3224]: disconnect from unknown[197.159.191.5] helo=1 auth=0/1 quit=1 commands=2/3
+mail.log.3:Aug 20 00:27:30 joao postfix/anvil[2687]: statistics: max connection rate 1/60s for (smtp:31.47.55.82) at Aug 20 00:18:54
+mail.log.3:Aug 20 00:27:30 joao postfix/anvil[2687]: statistics: max connection count 1 for (smtp:31.47.55.82) at Aug 20 00:18:54
+mail.log.3:Aug 20 00:27:30 joao postfix/anvil[2687]: statistics: max cache size 1 at Aug 20 00:18:54
+mail.log.3:Aug 20 00:29:21 joao postfix/smtpd[3252]: warning: dict_nis_init: NIS domain name not set - NIS lookups disabled
+mail.log.3:Aug 20 00:29:21 joao postfix/smtpd[3252]: connect from unknown[178.90.223.201]
+mail.log.3:Aug 20 00:29:22 joao postfix/smtpd[3252]: disconnect from unknown[178.90.223.201] helo=1 auth=0/1 quit=1 commands=2/3
+mail.log.3:Aug 20 00:32:06 joao postfix/smtpd[3268]: warning: dict_nis_init: NIS domain name not set - NIS lookups disabled
+mail.log.3:Aug 20 00:32:06 joao postfix/smtpd[3268]: warning: hostname broadband.customer.egrk.net does not resolve to address 185.104.193.27: Name or service not known
+mail.log.3:Aug 20 00:32:06 joao postfix/smtpd[3268]: connect from unknown[185.104.193.27]
+mail.log.3:Aug 20 00:32:07 joao postfix/smtpd[3268]: disconnect from unknown[185.104.193.27] helo=1 auth=0/1 quit=1 commands=2/3
+mail.log.3:Aug 20 00:34:30 joao postfix/smtpd[3277]: warning: dict_nis_init: NIS domain name not set - NIS lookups disabled
+mail.log.3:Aug 20 00:34:30 joao postfix/smtpd[3277]: connect from 146.48-105-213.static.virginmediabusiness.co.uk[213.105.48.146]
+mail.log.3:Aug 20 00:34:30 joao postfix/smtpd[3277]: disconnect from 146.48-105-213.static.virginmediabusiness.co.uk[213.105.48.146] helo=1 auth=0/1 quit=1 commands=2/3
+mail.log.3:Aug 20 00:37:27 joao postfix/smtpd[3298]: warning: dict_nis_init: NIS domain name not set - NIS lookups disabled
+mail.log.3:Aug 20 00:37:27 joao postfix/smtpd[3298]: connect from 87-204-125-10.static.ip.netia.com.pl[87.204.125.10]
+mail.log.3:Aug 20 00:37:28 joao postfix/smtpd[3298]: disconnect from 87-204-125-10.static.ip.netia.com.pl[87.204.125.10] helo=1 auth=0/1 quit=1 commands=2/3
+mail.log.3:Aug 20 00:39:21 joao postfix/anvil[3254]: statistics: max connection rate 1/60s for (smtp:178.90.223.201) at Aug 20 00:29:21
+mail.log.3:Aug 20 00:39:21 joao postfix/anvil[3254]: statistics: max connection count 1 for (smtp:178.90.223.201) at Aug 20 00:29:21
+mail.log.3:Aug 20 00:39:21 joao postfix/anvil[3254]: statistics: max cache size 1 at Aug 20 00:29:21
+mail.log.3:Aug 20 00:39:59 joao postfix/smtpd[3345]: warning: dict_nis_init: NIS domain name not set - NIS lookups disabled
+mail.log.3:Aug 20 00:39:59 joao postfix/smtpd[3345]: connect from unknown[86.35.227.122]
+mail.log.3:Aug 20 00:40:00 joao postfix/smtpd[3345]: disconnect from unknown[86.35.227.122] helo=1 auth=0/1 quit=1 commands=2/3
+mail.log.3:Aug 20 00:43:07 joao postfix/smtpd[3367]: warning: dict_nis_init: NIS domain name not set - NIS lookups disabled
+mail.log.3:Aug 20 00:43:07 joao postfix/smtpd[3367]: warning: hostname 190-92-84-178.reverse.cablecolor.hn does not resolve to address 190.92.84.178: Name or service not known
+mail.log.3:Aug 20 00:43:07 joao postfix/smtpd[3367]: connect from unknown[190.92.84.178]
+mail.log.3:Aug 20 00:43:07 joao postfix/smtpd[3367]: disconnect from unknown[190.92.84.178] helo=1 auth=0/1 quit=1 commands=2/3
+mail.log.3:Aug 20 00:45:13 joao postfix/smtpd[3378]: warning: dict_nis_init: NIS domain name not set - NIS lookups disabled
+mail.log.3:Aug 20 00:45:13 joao postfix/smtpd[3378]: connect from host-83-67-177-25.static.as9105.net[83.67.177.25]
+mail.log.3:Aug 20 00:45:13 joao postfix/smtpd[3378]: lost connection after CONNECT from host-83-67-177-25.static.as9105.net[83.67.177.25]
+mail.log.3:Aug 20 00:45:13 joao postfix/smtpd[3378]: disconnect from host-83-67-177-25.static.as9105.net[83.67.177.25] commands=0/0
+mail.log.3:Aug 20 00:48:03 joao postfix/smtpd[3392]: warning: dict_nis_init: NIS domain name not set - NIS lookups disabled
+mail.log.3:Aug 20 00:48:03 joao postfix/smtpd[3392]: connect from unknown[201.131.240.134]
+mail.log.3:Aug 20 00:48:04 joao postfix/smtpd[3392]: disconnect from unknown[201.131.240.134] helo=1 auth=0/1 quit=1 commands=2/3
+mail.log.3:Aug 20 00:49:21 joao postfix/anvil[3254]: statistics: max connection rate 1/60s for (smtp:86.35.227.122) at Aug 20 00:39:59
+mail.log.3:Aug 20 00:49:21 joao postfix/anvil[3254]: statistics: max connection count 1 for (smtp:86.35.227.122) at Aug 20 00:39:59
+mail.log.3:Aug 20 00:49:21 joao postfix/anvil[3254]: statistics: max cache size 1 at Aug 20 00:39:59
+mail.log.3:Aug 20 00:50:38 joao postfix/smtpd[3412]: warning: dict_nis_init: NIS domain name not set - NIS lookups disabled
+mail.log.3:Aug 20 00:50:38 joao postfix/smtpd[3412]: connect from unknown[190.223.59.18]
+mail.log.3:Aug 20 00:50:39 joao postfix/smtpd[3412]: disconnect from unknown[190.223.59.18] helo=1 auth=0/1 quit=1 commands=2/3
+mail.log.3:Aug 20 00:53:16 joao postfix/smtpd[3423]: warning: dict_nis_init: NIS domain name not set - NIS lookups disabled
+mail.log.3:Aug 20 00:53:16 joao postfix/smtpd[3423]: warning: hostname 191-8-183-187.user.vivozap.com.br does not resolve to address 191.8.183.187: Name or service not known
+mail.log.3:Aug 20 00:53:16 joao postfix/smtpd[3423]: connect from unknown[191.8.183.187]
+mail.log.3:Aug 20 00:53:17 joao postfix/smtpd[3423]: disconnect from unknown[191.8.183.187] helo=1 auth=0/1 quit=1 commands=2/3
+mail.log.3:Aug 20 00:55:51 joao postfix/smtpd[3452]: warning: dict_nis_init: NIS domain name not set - NIS lookups disabled
+mail.log.3:Aug 20 00:55:51 joao postfix/smtpd[3452]: warning: hostname 191-8-183-187.user.vivozap.com.br does not resolve to address 191.8.183.187: Name or service not known
+mail.log.3:Aug 20 00:55:51 joao postfix/smtpd[3452]: connect from unknown[191.8.183.187]
+mail.log.3:Aug 20 00:55:51 joao postfix/smtpd[3452]: disconnect from unknown[191.8.183.187] helo=1 auth=0/1 quit=1 commands=2/3
+mail.log.3:Aug 20 00:58:23 joao postfix/smtpd[3515]: warning: dict_nis_init: NIS domain name not set - NIS lookups disabled
+mail.log.3:Aug 20 00:58:23 joao postfix/smtpd[3515]: connect from unknown[186.96.92.210]
+mail.log.3:Aug 20 00:58:23 joao postfix/smtpd[3515]: disconnect from unknown[186.96.92.210] helo=1 auth=0/1 quit=1 commands=2/3
+mail.log.3:Aug 20 00:59:21 joao postfix/anvil[3254]: statistics: max connection rate 1/60s for (smtp:190.223.59.18) at Aug 20 00:50:38
+mail.log.3:Aug 20 00:59:21 joao postfix/anvil[3254]: statistics: max connection count 1 for (smtp:190.223.59.18) at Aug 20 00:50:38
+mail.log.3:Aug 20 00:59:21 joao postfix/anvil[3254]: statistics: max cache size 1 at Aug 20 00:50:38
+mail.log.3:Aug 20 01:01:01 joao postfix/smtpd[3559]: warning: dict_nis_init: NIS domain name not set - NIS lookups disabled
+mail.log.3:Aug 20 01:01:01 joao postfix/smtpd[3559]: connect from unknown[178.90.223.201]
+mail.log.3:Aug 20 01:01:02 joao postfix/smtpd[3559]: disconnect from unknown[178.90.223.201] helo=1 auth=0/1 quit=1 commands=2/3
+mail.log.3:Aug 20 01:03:35 joao postfix/smtpd[3570]: warning: dict_nis_init: NIS domain name not set - NIS lookups disabled
+mail.log.3:Aug 20 01:03:35 joao postfix/smtpd[3570]: connect from unknown[13.88.20.155]
+mail.log.3:Aug 20 01:03:35 joao postfix/smtpd[3570]: disconnect from unknown[13.88.20.155] helo=1 auth=0/1 quit=1 commands=2/3
+mail.log.3:Aug 20 01:06:13 joao postfix/smtpd[3583]: warning: dict_nis_init: NIS domain name not set - NIS lookups disabled
+mail.log.3:Aug 20 01:06:13 joao postfix/smtpd[3583]: connect from unknown[41.226.11.226]
+mail.log.3:Aug 20 01:06:13 joao postfix/smtpd[3583]: disconnect from unknown[41.226.11.226] helo=1 auth=0/1 quit=1 commands=2/3
+mail.log.3:Aug 20 01:09:21 joao postfix/anvil[3254]: statistics: max connection rate 1/60s for (smtp:178.90.223.201) at Aug 20 01:01:01
+mail.log.3:Aug 20 01:09:21 joao postfix/anvil[3254]: statistics: max connection count 1 for (smtp:178.90.223.201) at Aug 20 01:01:01
+mail.log.3:Aug 20 01:09:21 joao postfix/anvil[3254]: statistics: max cache size 1 at Aug 20 01:01:01
+mail.log.3:Aug 20 01:09:29 joao postfix/smtpd[3599]: warning: dict_nis_init: NIS domain name not set - NIS lookups disabled
+mail.log.3:Aug 20 01:09:29 joao postfix/smtpd[3599]: connect from host81-137-210-229.in-addr.btopenworld.com[81.137.210.229]
+mail.log.3:Aug 20 01:11:42 joao postfix/smtpd[3607]: warning: dict_nis_init: NIS domain name not set - NIS lookups disabled
+mail.log.3:Aug 20 01:11:42 joao postfix/smtpd[3607]: connect from unknown[41.180.72.44]
+mail.log.3:Aug 20 01:11:43 joao postfix/smtpd[3607]: disconnect from unknown[41.180.72.44] helo=1 auth=0/1 quit=1 commands=2/3
+mail.log.3:Aug 20 01:14:33 joao postfix/smtpd[3599]: timeout after HELO from host81-137-210-229.in-addr.btopenworld.com[81.137.210.229]
+mail.log.3:Aug 20 01:14:33 joao postfix/smtpd[3599]: disconnect from host81-137-210-229.in-addr.btopenworld.com[81.137.210.229] helo=1 commands=1
+mail.log.3:Aug 20 01:16:51 joao postfix/smtpd[3663]: warning: dict_nis_init: NIS domain name not set - NIS lookups disabled
+mail.log.3:Aug 20 01:16:51 joao postfix/smtpd[3663]: connect from unknown[90.173.249.177]
+mail.log.3:Aug 20 01:16:51 joao postfix/smtpd[3663]: disconnect from unknown[90.173.249.177] helo=1 auth=0/1 quit=1 commands=2/3
+mail.log.3:Aug 20 01:19:21 joao postfix/anvil[3254]: statistics: max connection rate 1/60s for (smtp:81.137.210.229) at Aug 20 01:09:29
+mail.log.3:Aug 20 01:19:21 joao postfix/anvil[3254]: statistics: max connection count 1 for (smtp:81.137.210.229) at Aug 20 01:09:29
+mail.log.3:Aug 20 01:19:21 joao postfix/anvil[3254]: statistics: max cache size 2 at Aug 20 01:11:42
+mail.log.3:Aug 20 01:20:04 joao postfix/smtpd[3684]: warning: dict_nis_init: NIS domain name not set - NIS lookups disabled
+mail.log.3:Aug 20 01:20:04 joao postfix/smtpd[3684]: connect from unknown[12.38.43.138]
+mail.log.3:Aug 20 01:20:05 joao postfix/smtpd[3684]: disconnect from unknown[12.38.43.138] helo=1 auth=0/1 quit=1 commands=2/3
+mail.log.3:Aug 20 01:22:11 joao postfix/smtpd[3690]: warning: dict_nis_init: NIS domain name not set - NIS lookups disabled
+mail.log.3:Aug 20 01:22:11 joao postfix/smtpd[3690]: warning: hostname CableLink-200-188-141-74.Hosts.Cablevision.com.mx does not resolve to address 200.188.141.74: Name or service not known
+mail.log.3:Aug 20 01:22:11 joao postfix/smtpd[3690]: connect from unknown[200.188.141.74]
+mail.log.3:Aug 20 01:22:11 joao postfix/smtpd[3690]: disconnect from unknown[200.188.141.74] helo=1 auth=0/1 quit=1 commands=2/3
+mail.log.3:Aug 20 01:24:42 joao postfix/smtpd[3694]: warning: dict_nis_init: NIS domain name not set - NIS lookups disabled
+mail.log.3:Aug 20 01:24:42 joao postfix/smtpd[3694]: connect from unknown[185.127.19.189]
+mail.log.3:Aug 20 01:24:42 joao postfix/smtpd[3694]: disconnect from unknown[185.127.19.189] helo=1 auth=0/1 quit=1 commands=2/3
+mail.log.3:Aug 20 01:27:30 joao postfix/smtpd[3707]: warning: dict_nis_init: NIS domain name not set - NIS lookups disabled
+mail.log.3:Aug 20 01:27:30 joao postfix/smtpd[3707]: connect from unknown[210.11.186.203]
+mail.log.3:Aug 20 01:27:31 joao postfix/smtpd[3707]: disconnect from unknown[210.11.186.203] helo=1 auth=0/1 quit=1 commands=2/3
+mail.log.3:Aug 20 01:29:16 joao postfix/smtpd[3718]: warning: dict_nis_init: NIS domain name not set - NIS lookups disabled
+mail.log.3:Aug 20 01:29:16 joao postfix/smtpd[3718]: connect from unknown[175.6.7.144]
+mail.log.3:Aug 20 01:29:17 joao postfix/smtpd[3718]: disconnect from unknown[175.6.7.144] ehlo=1 auth=0/1 rset=1 quit=1 commands=3/4
+mail.log.3:Aug 20 01:29:21 joao postfix/anvil[3254]: statistics: max connection rate 1/60s for (smtp:12.38.43.138) at Aug 20 01:20:04
+mail.log.3:Aug 20 01:29:21 joao postfix/anvil[3254]: statistics: max connection count 1 for (smtp:12.38.43.138) at Aug 20 01:20:04
+mail.log.3:Aug 20 01:29:21 joao postfix/anvil[3254]: statistics: max cache size 1 at Aug 20 01:20:04
+mail.log.3:Aug 20 01:30:09 joao postfix/smtpd[3718]: warning: hostname b11226.entelchile.net does not resolve to address 186.10.11.226: Name or service not known
+mail.log.3:Aug 20 01:30:09 joao postfix/smtpd[3718]: connect from unknown[186.10.11.226]
+mail.log.3:Aug 20 01:30:09 joao postfix/smtpd[3718]: disconnect from unknown[186.10.11.226] helo=1 auth=0/1 quit=1 commands=2/3
+mail.log.3:Aug 20 01:32:53 joao postfix/smtpd[3768]: warning: dict_nis_init: NIS domain name not set - NIS lookups disabled
+mail.log.3:Aug 20 01:32:53 joao postfix/smtpd[3768]: warning: hostname ip-adsl-190.180.99.113.cotas.com.bo does not resolve to address 190.180.99.113: Name or service not known
+mail.log.3:Aug 20 01:32:53 joao postfix/smtpd[3768]: connect from unknown[190.180.99.113]
+mail.log.3:Aug 20 01:32:53 joao postfix/smtpd[3768]: lost connection after CONNECT from unknown[190.180.99.113]
+mail.log.3:Aug 20 01:32:53 joao postfix/smtpd[3768]: disconnect from unknown[190.180.99.113] commands=0/0
+mail.log.3:Aug 20 01:35:21 joao postfix/smtpd[3797]: warning: dict_nis_init: NIS domain name not set - NIS lookups disabled
+mail.log.3:Aug 20 01:35:21 joao postfix/smtpd[3797]: warning: hostname client-200.121.128.25.speedy.net.pe does not resolve to address 200.121.128.25: Name or service not known
+mail.log.3:Aug 20 01:35:21 joao postfix/smtpd[3797]: connect from unknown[200.121.128.25]
+mail.log.3:Aug 20 01:35:22 joao postfix/smtpd[3797]: disconnect from unknown[200.121.128.25] helo=1 auth=0/1 quit=1 commands=2/3
+mail.log.3:Aug 20 01:38:28 joao postfix/smtpd[4076]: warning: dict_nis_init: NIS domain name not set - NIS lookups disabled
+mail.log.3:Aug 20 01:38:28 joao postfix/smtpd[4076]: connect from 189-13-129-25.user.veloxzone.com.br[189.13.129.25]
+mail.log.3:Aug 20 01:38:29 joao postfix/smtpd[4076]: disconnect from 189-13-129-25.user.veloxzone.com.br[189.13.129.25] helo=1 auth=0/1 quit=1 commands=2/3
+mail.log.3:Aug 20 01:39:21 joao postfix/anvil[3254]: statistics: max connection rate 1/60s for (smtp:186.10.11.226) at Aug 20 01:30:09
+mail.log.3:Aug 20 01:39:21 joao postfix/anvil[3254]: statistics: max connection count 1 for (smtp:186.10.11.226) at Aug 20 01:30:09
+mail.log.3:Aug 20 01:39:21 joao postfix/anvil[3254]: statistics: max cache size 2 at Aug 20 01:30:09
+mail.log.3:Aug 20 01:40:34 joao postfix/smtpd[4098]: warning: dict_nis_init: NIS domain name not set - NIS lookups disabled
+mail.log.3:Aug 20 01:40:34 joao postfix/smtpd[4098]: connect from net-93-149-107-116.cust.vodafonedsl.it[93.149.107.116]
+mail.log.3:Aug 20 01:40:35 joao postfix/smtpd[4098]: disconnect from net-93-149-107-116.cust.vodafonedsl.it[93.149.107.116] helo=1 auth=0/1 quit=1 commands=2/3
+mail.log.3:Aug 20 01:43:14 joao postfix/smtpd[4114]: warning: dict_nis_init: NIS domain name not set - NIS lookups disabled
+mail.log.3:Aug 20 01:43:14 joao postfix/smtpd[4114]: connect from unknown[52.169.26.62]
+mail.log.3:Aug 20 01:43:14 joao postfix/smtpd[4114]: disconnect from unknown[52.169.26.62] helo=1 auth=0/1 quit=1 commands=2/3
+mail.log.3:Aug 20 01:46:23 joao postfix/smtpd[4145]: warning: dict_nis_init: NIS domain name not set - NIS lookups disabled
+mail.log.3:Aug 20 01:46:23 joao postfix/smtpd[4145]: connect from 59-100-16-223.bri.static-ipl.aapt.com.au[59.100.16.223]
+mail.log.3:Aug 20 01:46:24 joao postfix/smtpd[4145]: disconnect from 59-100-16-223.bri.static-ipl.aapt.com.au[59.100.16.223] helo=1 auth=0/1 quit=1 commands=2/3
+mail.log.3:Aug 20 01:48:31 joao postfix/smtpd[4185]: warning: dict_nis_init: NIS domain name not set - NIS lookups disabled
+mail.log.3:Aug 20 01:48:31 joao postfix/smtpd[4185]: connect from unknown[52.174.4.62]
+mail.log.3:Aug 20 01:48:31 joao postfix/smtpd[4185]: disconnect from unknown[52.174.4.62] helo=1 auth=0/1 quit=1 commands=2/3
+mail.log.3:Aug 20 01:49:21 joao postfix/anvil[3254]: statistics: max connection rate 1/60s for (smtp:93.149.107.116) at Aug 20 01:40:34
+mail.log.3:Aug 20 01:49:21 joao postfix/anvil[3254]: statistics: max connection count 1 for (smtp:93.149.107.116) at Aug 20 01:40:34
+mail.log.3:Aug 20 01:49:21 joao postfix/anvil[3254]: statistics: max cache size 1 at Aug 20 01:40:34
+mail.log.3:Aug 20 01:51:09 joao postfix/smtpd[4213]: warning: dict_nis_init: NIS domain name not set - NIS lookups disabled
+mail.log.3:Aug 20 01:51:09 joao postfix/smtpd[4213]: connect from unknown[41.226.11.226]
+mail.log.3:Aug 20 01:51:10 joao postfix/smtpd[4213]: disconnect from unknown[41.226.11.226] helo=1 auth=0/1 quit=1 commands=2/3
+mail.log.3:Aug 20 01:54:15 joao postfix/smtpd[4225]: warning: dict_nis_init: NIS domain name not set - NIS lookups disabled
+mail.log.3:Aug 20 01:54:15 joao postfix/smtpd[4225]: warning: hostname dsl-201-99-102-86-sta.prod-empresarial.com.mx does not resolve to address 201.99.102.86: Name or service not known
+mail.log.3:Aug 20 01:54:15 joao postfix/smtpd[4225]: connect from unknown[201.99.102.86]
+mail.log.3:Aug 20 01:54:16 joao postfix/smtpd[4225]: disconnect from unknown[201.99.102.86] helo=1 auth=0/1 quit=1 commands=2/3
+mail.log.3:Aug 20 01:56:35 joao postfix/smtpd[4238]: warning: dict_nis_init: NIS domain name not set - NIS lookups disabled
+mail.log.3:Aug 20 01:56:35 joao postfix/smtpd[4238]: connect from unknown[189.207.84.203]
+mail.log.3:Aug 20 01:56:35 joao postfix/smtpd[4238]: disconnect from unknown[189.207.84.203] helo=1 auth=0/1 quit=1 commands=2/3
+mail.log.3:Aug 20 01:59:21 joao postfix/anvil[3254]: statistics: max connection rate 1/60s for (smtp:41.226.11.226) at Aug 20 01:51:09
+mail.log.3:Aug 20 01:59:21 joao postfix/anvil[3254]: statistics: max connection count 1 for (smtp:41.226.11.226) at Aug 20 01:51:09
+mail.log.3:Aug 20 01:59:21 joao postfix/anvil[3254]: statistics: max cache size 1 at Aug 20 01:51:09
+mail.log.3:Aug 20 02:59:10 joao postfix/smtpd[4646]: warning: dict_nis_init: NIS domain name not set - NIS lookups disabled
+mail.log.3:Aug 20 02:59:10 joao postfix/smtpd[4646]: connect from unknown[175.6.7.144]
+mail.log.3:Aug 20 02:59:11 joao postfix/smtpd[4646]: disconnect from unknown[175.6.7.144] ehlo=1 auth=0/1 rset=1 quit=1 commands=3/4
+mail.log.3:Aug 20 03:02:31 joao postfix/anvil[4648]: statistics: max connection rate 1/60s for (smtp:175.6.7.144) at Aug 20 02:59:10
+mail.log.3:Aug 20 03:02:31 joao postfix/anvil[4648]: statistics: max connection count 1 for (smtp:175.6.7.144) at Aug 20 02:59:10
+mail.log.3:Aug 20 03:02:31 joao postfix/anvil[4648]: statistics: max cache size 1 at Aug 20 02:59:10
+mail.log.3:Aug 20 05:14:34 joao postfix/smtpd[5514]: warning: dict_nis_init: NIS domain name not set - NIS lookups disabled
+mail.log.3:Aug 20 05:14:34 joao postfix/smtpd[5514]: connect from unknown[179.43.144.37]
+mail.log.3:Aug 20 05:14:34 joao postfix/smtpd[5514]: disconnect from unknown[179.43.144.37] ehlo=1 quit=1 commands=2
+mail.log.3:Aug 20 05:17:55 joao postfix/anvil[5516]: statistics: max connection rate 1/60s for (smtp:179.43.144.37) at Aug 20 05:14:34
+mail.log.3:Aug 20 05:17:55 joao postfix/anvil[5516]: statistics: max connection count 1 for (smtp:179.43.144.37) at Aug 20 05:14:34
+mail.log.3:Aug 20 05:17:55 joao postfix/anvil[5516]: statistics: max cache size 1 at Aug 20 05:14:34
+mail.log.3:Aug 20 05:21:16 joao postfix/smtpd[5551]: warning: dict_nis_init: NIS domain name not set - NIS lookups disabled
+mail.log.3:Aug 20 05:21:16 joao postfix/smtpd[5551]: connect from ip191.ip-192-99-27.net[192.99.27.191]
+mail.log.3:Aug 20 05:21:16 joao postfix/smtpd[5551]: disconnect from ip191.ip-192-99-27.net[192.99.27.191] ehlo=1 auth=0/1 rset=1 quit=1 commands=3/4
+mail.log.3:Aug 20 05:24:37 joao postfix/anvil[5553]: statistics: max connection rate 1/60s for (smtp:192.99.27.191) at Aug 20 05:21:16
+mail.log.3:Aug 20 05:24:37 joao postfix/anvil[5553]: statistics: max connection count 1 for (smtp:192.99.27.191) at Aug 20 05:21:16
+mail.log.3:Aug 20 05:24:37 joao postfix/anvil[5553]: statistics: max cache size 1 at Aug 20 05:21:16

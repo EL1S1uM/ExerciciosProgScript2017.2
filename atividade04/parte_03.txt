@@ -1,0 +1,2 @@
+cat /etc/passwd | cut -d ":" -f 7
+cat /home/compartilhado/despesas.txt | cut -d "$" -f 2 | grep "," | sed 's/ //g' | paste -s | sed 's/,00./+/g' | sed 's/,00//' | bc

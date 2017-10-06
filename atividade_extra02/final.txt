@@ -1,0 +1,48 @@
+<td class="tdespand" colspan="7">PRIMEIRO SEMESTRE</td>
+<td>Fundamentos de Programação</td>
+<td>96</td>
+<td>6</td>
+<td>Métodos e Técnicas de Pesquisa</td>
+<td>32</td>
+<td>2</td>
+<td>Subtotal</td>
+<td>320</td>
+<td>20</td>
+<td class="tdespand" colspan="7">SEGUNDO SEMESTRE</td>
+<td>Fundamentos de Programação</td>
+<td>Subtotal</td>
+<td>320</td>
+<td>20</td>
+<td class="tdespand" colspan="7">TERCEIRO SEMESTRE</td>
+<td>Administração de Sistemas Operacionais Windows</td>
+<td>96</td>
+<td>6</td>
+<td>Administração de Sistemas Operacionais Linux</td>
+<td>96</td>
+<td>6</td>
+<td>Subtotal</td>
+<td>320</td>
+<td>20</td>
+<td class="tdespand" colspan="7">QUARTO SEMESTRE</td>
+<td>Fundamentos de Programação</td>
+<td>Ética, Direito e Legislação</td>
+<td>32</td>
+<td>2</td>
+<td>Subtotal</td>
+<td>320</td>
+<td>20</td>
+<td class="tdespand" colspan="7">QUINTO SEMESTRE</td>
+<td>
+<div>Projeto de Pesquisa Científica e</div>
+<div>Tecnológica</div>
+</td>
+<td>32</td>
+<td>2</td>
+<td>
+<div>Laboratório em Infra-estrutura de Redes, Programação de Scripts</div>
+</td>
+<td>Subtotal</td>
+<td>288</td>
+<td>18</td>
+<td class="tdespand" colspan="7">SEXTO SEMESTRE</td>
+<td>Subtotal</td>

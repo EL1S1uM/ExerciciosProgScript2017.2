@@ -1,0 +1,18 @@
+#!/bin/bash
+
+case $1 in
+	start)
+	echo "Iniciando Serviço"
+	;;
+
+	stop)
+	echo "Parando Serviço"
+	;;
+
+	restart)
+	echo "Reiniciando Serviço"
+	;;
+
+	*)
+	echo "Uso $0 (start|stop|restart)"
+esac
